@@ -8,22 +8,22 @@ cascade_folder = "haarcascades"
 
 # Список каскадов (файл: описание)
 haar_cascades = {
-    # "haarcascade_eye.xml": "Глаза",
-    # "haarcascade_eye_tree_eyeglasses.xml": "Глаза в очках",
-    # "haarcascade_frontalcatface.xml": "Фронтальная кошачья морда",
-    # "haarcascade_frontalcatface_extended.xml": "Фронтальная кошачья морда",
-    # "haarcascade_frontalface_alt.xml": "Фронтальное лицо 1",
-    # "haarcascade_frontalface_alt2.xml": "Фронтальное лицо 2",
-    # "haarcascade_frontalface_alt_tree.xml": "Фронтальное лицо каскад",
-    # "haarcascade_frontalface_default.xml": "Фронтальное лицо по умолчанию",
-    # "haarcascade_fullbody.xml": "Полное тело",
-    # "haarcascade_lefteye_2splits.xml": "Левый глаз",
-    # "haarcascade_licence_plate_rus_16stages.xml": "Российские номерные знаки",
-    # "haarcascade_lowerbody.xml": "Нижняя часть тела",
-    # "haarcascade_profileface.xml": "Профиль лица",
-    # "haarcascade_righteye_2splits.xml": "Правый глаз",
-    # "haarcascade_russian_plate_number.xml": "Номерные знаки",
-    # "haarcascade_smile.xml": "Улыбка",
+    "haarcascade_eye.xml": "Глаза",
+    "haarcascade_eye_tree_eyeglasses.xml": "Глаза в очках",
+    "haarcascade_frontalcatface.xml": "Фронтальная кошачья морда",
+    "haarcascade_frontalcatface_extended.xml": "Фронтальная кошачья морда",
+    "haarcascade_frontalface_alt.xml": "Фронтальное лицо 1",
+    "haarcascade_frontalface_alt2.xml": "Фронтальное лицо 2",
+    "haarcascade_frontalface_alt_tree.xml": "Фронтальное лицо каскад",
+    "haarcascade_frontalface_default.xml": "Фронтальное лицо по умолчанию",
+    "haarcascade_fullbody.xml": "Полное тело",
+    "haarcascade_lefteye_2splits.xml": "Левый глаз",
+    "haarcascade_licence_plate_rus_16stages.xml": "Российские номерные знаки",
+    "haarcascade_lowerbody.xml": "Нижняя часть тела",
+    "haarcascade_profileface.xml": "Профиль лица",
+    "haarcascade_righteye_2splits.xml": "Правый глаз",
+    "haarcascade_russian_plate_number.xml": "Номерные знаки",
+    "haarcascade_smile.xml": "Улыбка",
     "haarcascade_upperbody.xml": "Верхняя часть тела"
 }
 
